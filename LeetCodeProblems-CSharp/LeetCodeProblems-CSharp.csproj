@@ -6,4 +6,9 @@
     <RootNamespace>LeetCodeProblems_CSharp</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Medium\" />
+    <Folder Include="Hard\" />
+  </ItemGroup>
+
 </Project>
