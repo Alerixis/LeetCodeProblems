@@ -47,16 +47,6 @@ namespace LeetCodeProblems
             double result = FindMedianSortedArrays(nums1, nums2);
         }
 
-        struct thing {
-            int valu1;
-            int vlue1l;
-        }
-        public thing DoMath(int value)
-        {
-
-        }
-
-
         public double FindMedianSortedArrays(int[] nums1, int[] nums2)
         {
             double median = 0;
